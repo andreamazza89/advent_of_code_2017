@@ -109,4 +109,10 @@ defmodule Year2017Test.Three do
       |> IO.inspect
   end
 
+  #test "solves part two" do
+  #  IO.puts "solution to day 3 part two:"
+  #  part_two()
+  #    |> IO.inspect
+  #end
+
 end
